@@ -1,0 +1,1 @@
+## Hi <img src= "https://media0.giphy.com/media/gM5qFksULw54NMWyry/200w.webp?cid=ecf05e47hhtpai6b5prer7b1q7esoco5yiiultqsx6d5haou&rid=200w.webp&ct=s" width="40px"> , I'm Gabriela Azevedo, a Development student 💻 from Brazil.
