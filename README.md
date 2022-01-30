@@ -8,7 +8,7 @@
 - 👉🏽 contact me: gabrielaa501@gmail.com
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/GabsAzevedo)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-0073B1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-azevedo-a083368a)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0073B1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielaazevedo26/)
 [![Instagram](https://img.shields.io/badge/-Instagram-B13288?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/gaazevedobi/) 
 
 **Languages and tools**
