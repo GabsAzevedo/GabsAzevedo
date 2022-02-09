@@ -12,8 +12,8 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-B13288?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/gaazevedobi/) 
 
 **Languages and tools**
-<background> White
+
 <code><img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code> <code> 
 <img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code> <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code> 
 
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code> </background>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code> 
